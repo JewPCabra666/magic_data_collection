@@ -1,0 +1,27 @@
+{
+  "league": {
+    "number_of_matches": 3,
+    "finish_on_loss": false,
+    "prize_structure": {
+      "3": 150,
+      "2": 100,
+      "1": 50,
+      "0": 0
+    }
+  },
+  "elimination": {
+    "number_of_matches": 3,
+    "finish_on_loss": true,
+    "prize_structure": {
+      "3": 240,
+      "2": 160,
+      "1": 100,
+      "0": 0
+    }
+  },
+  "team_draft": {
+    "number_of_matches": 3,
+    "finish_on_loss": false,
+    "prize_structure": null
+  }
+}
